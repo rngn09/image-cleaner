@@ -1,3 +1,3 @@
 # image-cleaner
 
-Needed to cleanup a pattern on every frame of a sequence. Wrote this little script to automatize repetetive mouse clicks and keyboard strokes. Fun little experiment with PyAutoGui. 
+Little script using PyAutoGui to automatize repetetive mouse clicks and keyboard strokes to clean up a pattern from every frame of an image sequence.
